@@ -1,0 +1,104 @@
+# satyam-sood.html
+
+## Text
+LABEL: About Meet The Team
+LABEL: Past Events
+LABEL: Our Story
+LABEL: Resources Articles
+LABEL: Donate
+LABEL: Get Involved Join
+LABEL: Contact Us
+P: English (US) Español (BO) हिन्दी Donate Now Donate Now About Meet The Team Past Events Our Story Resources Articles Donate Get Involved Join Contact Us English (US) Español (BO) हिन्दी Meet the Team Join us in spreading hope and preventing suicide through fundraisers and events
+H3: To verify someone's leadership or involvement in ReachEquilibria, please email us at verify@reachequilibria.org
+H3: Meet The Team
+P: Satyam Sood: CoFounder
+P: CEO
+P: Gabriel Wang: CoFounder
+P: COO
+H3: SatyamSood@ReachEquilibria.org
+H3: GabrielDWang@ReachEquilibria.org
+P: Johan Padayatti
+P: Outreach Director
+P: Dhanushi Raval
+P: Creative Director
+P: Trinity Mcconnell
+P: Fay Xu
+P: Development Director
+P: Daniel Johnson
+P: Media Director
+P: Immanuel George
+P: Fundraising Director
+P: This organization truly cares about mental health and suicide prevention. They are making a real difference in the community.
+P: Mary Clint
+P: ★★★★★
+P: Contact
+P: Sign up for our Newsletter
+P: contact@reachequilibria.org
+P: 214-606-5320
+BUTTON: Sign Up
+P: © 2025. All rights reserved to ReachEquilibria.
+P: Reach Equilibria is a 501(c)(3) non-profit organization. EIN 99-3505959.
+
+## Links
+About -> /about
+Meet The Team -> /satyam-sood
+Past Events -> /past-events
+Our Story -> /our-story
+Resources -> /resources
+Articles -> /mental-wellness-articles
+Donate -> /donate
+Join -> /volunteering-opportunities
+Contact Us -> /contact-us
+English (US) -> /
+Español (BO) -> /es
+हिन्दी -> /hi
+About -> /about
+Meet The Team -> /satyam-sood
+Past Events -> /past-events
+Our Story -> /our-story
+Resources -> /resources
+Articles -> /mental-wellness-articles
+Donate -> /donate
+Join -> /volunteering-opportunities
+Contact Us -> /contact-us
+English (US) -> /
+Español (BO) -> /es
+हिन्दी -> /hi
+verify@reachequilibria.org -> mailto:verify@reachequilibria.org
+(image/social) -> https://www.instagram.com/reachequilibria?igsh=MWlwcW53dDcxZjh5cA==&utm_source=qr
+(image/social) -> https://www.linkedin.com/company/reachequilibria/?viewAsMember=true
+
+## Images
+ReachEquilibria logo -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop/A0xNan8Xlnh7vrgK/image-6-13-24-at-2.05a-pm-YBgpzEG1PRsZ4voz.jpeg
+en flag -> https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/us.svg
+en flag -> https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/us.svg
+es flag -> https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/bo.svg
+hi flag -> https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/in.svg
+ReachEquilibria logo -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop/A0xNan8Xlnh7vrgK/image-6-13-24-at-2.05a-pm-YBgpzEG1PRsZ4voz.jpeg
+en flag -> https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/us.svg
+en flag -> https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/us.svg
+es flag -> https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/bo.svg
+hi flag -> https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/in.svg
+sun light passing through green leafed tree -> https://images.unsplash.com/photo-1518495973542-4542c06a5843?auto=format&fit=crop&w=1920
+an image of the CEO and Founder of ReachEquilibria, Satyam Sood -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=1127,fit=crop/A0xNan8Xlnh7vrgK/4b0ed8f5-283e-4836-8978-a9a52dd7aae3-dWxl8xblLwI08wy4.jpg
+an image of the CEO and Founder of ReachEquilibria, Satyam Sood -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=527,fit=crop/A0xNan8Xlnh7vrgK/4b0ed8f5-283e-4836-8978-a9a52dd7aae3-dWxl8xblLwI08wy4.jpg
+(no alt) -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1366,fit=crop/A0xNan8Xlnh7vrgK/untitled-design-AGBz0kB2GyuQrzVy.png
+(no alt) -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=431,fit=crop/A0xNan8Xlnh7vrgK/untitled-design-AGBz0kB2GyuQrzVy.png
+(no alt) -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=501,fit=crop/A0xNan8Xlnh7vrgK/johan-officer-photo-YKb8VkXR2rhBqxjl.JPEG
+(no alt) -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=369,fit=crop/A0xNan8Xlnh7vrgK/johan-officer-photo-YKb8VkXR2rhBqxjl.JPEG
+(no alt) -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=621,fit=crop/A0xNan8Xlnh7vrgK/dhanushi-officer-photo-AzGMawxqxbiLqrKw.JPEG
+(no alt) -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=211,fit=crop/A0xNan8Xlnh7vrgK/dhanushi-officer-photo-AzGMawxqxbiLqrKw.JPEG
+(no alt) -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1936,fit=crop/A0xNan8Xlnh7vrgK/trinity-officer-photo-Aq2Gx7DoB0ILBVKO.JPEG
+(no alt) -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=431,fit=crop/A0xNan8Xlnh7vrgK/trinity-officer-photo-Aq2Gx7DoB0ILBVKO.JPEG
+(no alt) -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=621,fit=crop/A0xNan8Xlnh7vrgK/fay-officer-photo-m5K8O90OnKU6PePz.JPEG
+(no alt) -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=211,fit=crop/A0xNan8Xlnh7vrgK/fay-officer-photo-m5K8O90OnKU6PePz.JPEG
+(no alt) -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=1281,fit=crop/A0xNan8Xlnh7vrgK/renderedimage-d95Zje05Oqckzxk8.jpeg
+(no alt) -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=764,fit=crop/A0xNan8Xlnh7vrgK/renderedimage-d95Zje05Oqckzxk8.jpeg
+(no alt) -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1800,fit=crop/A0xNan8Xlnh7vrgK/immanuel_officer-YrD45PeogyiQaZyl.jpg
+(no alt) -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=757,fit=crop/A0xNan8Xlnh7vrgK/immanuel_officer-YrD45PeogyiQaZyl.jpg
+(no alt) -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=2560,fit=crop/A0xNan8Xlnh7vrgK/img_6358-yV4GlAOCile7pJTS.png
+(no alt) -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=1365,fit=crop/A0xNan8Xlnh7vrgK/img_6358-yV4GlAOCile7pJTS.png
+text -> https://images.unsplash.com/photo-1620147461831-a97b99ade1d3?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHw1fHxtZW50YWwlMjBoZWFsdGh8ZW58MHx8fHwxNzE3OTc4NDAxfDA&ixlib=rb-4.0.3&auto=format&fit=crop&w=48&h=48
+text -> https://images.unsplash.com/photo-1620147461831-a97b99ade1d3?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHw1fHxtZW50YWwlMjBoZWFsdGh8ZW58MHx8fHwxNzE3OTc4NDAxfDA&ixlib=rb-4.0.3&auto=format&fit=crop&w=47&h=46
+Satyam Sood and his brother, Shivam Sood, smiling -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1920,fit=crop/A0xNan8Xlnh7vrgK/jpg-A85pxzGOqKsB4kbL.jpg
+Satyam Sood and his brother, Shivam Sood, smiling -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=750,fit=crop/A0xNan8Xlnh7vrgK/jpg-A85pxzGOqKsB4kbL.jpg

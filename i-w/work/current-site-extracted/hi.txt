@@ -1,0 +1,83 @@
+# hi.html
+
+## Text
+LABEL: About (HI)
+LABEL: Resources (HI)
+LABEL: Donate (HI)
+LABEL: Contact Us (HI)
+LABEL: Meet The Team (HI)
+LABEL: Take Action Join (HI)
+LABEL: Events (HI)
+P: English (US) Español (BO) हिन्दी About (HI) Resources (HI) Donate (HI) Contact Us (HI) Meet The Team (HI) Take Action Join (HI) Events (HI) English (US) Español (BO) हिन्दी हम जो हैं अन्वेषण करना रीच इक्विलिब्रिया एक नव स्थापित गैर-लाभकारी संगठन है जो मानसिक स्वास्थ्य के प्रति जागरूकता लाने पर केंद्रित है। हम स्थानीय मानसिक स्वास्थ्य और चिकित्सक क्लीनिकों के साथ-साथ मानसिक स्वास्थ्य के लिए बड़े दान का समर्थन करने का प्रयास करते हैं।
+H3: हमारा विशेष कार्य
+P: रीच इक्विलिब्रिया एक छात्र-निर्मित और युवा-नेतृत्व वाली मानसिक स्वास्थ्य गैर-लाभकारी संस्था है। हमारा मिशन मानसिक स्वास्थ्य जागरूकता और सेवाओं का प्रसार करना है जो उन सभी लोगों की मदद करें जिन्हें उनकी आवश्यकता है। हम धन संचयन और सेवाओं की मेजबानी करते हैं, और हमारी छात्र-नेतृत्व वाली टीम (अब तक कई सदस्यों की) हमारे मिशन के केंद्र में है; हमारा इरादा युवाओं को सभी उम्र के लोगों की मदद करने और समुदाय के लिए स्वेच्छा से काम करने के लिए प्रोत्साहित करना है।
+H3: हमारे आदर्श वाक्य
+P: "एक साथ स्थिरता तक पहुँचना,"
+P: इसमें कोई भी अकेला नहीं है; हम सहायता के लिए यहां उपलब्ध हैं
+P: राष्ट्रीय आत्महत्या हॉटलाइन: 988
+P: https://988lifeline.org
+H3: करुणा के माध्यम से मन को सशक्त बनाना
+P: रीचइक्विलिब्रिया मानसिक स्वास्थ्य सहायता और संसाधनों के लिए समर्पित एक स्वागतयोग्य ऑनलाइन स्थान है। हम यहां जागरूकता बढ़ाने और सार्थक बदलाव पर जोर देने के लिए हैं।
+H6: सहायता
+P: मानसिक स्वास्थ्य सहायता और वास्तविक परिवर्तन के लिए प्रयास के लिए हमसे जुड़ें।
+H6: समाधान
+P: हमारे साथ अपनी मानसिक कल्याण यात्रा का समर्थन करने के लिए वास्तविक समाधान और संसाधन खोजें।
+H6: जागरूकता
+P: हम सभी मानसिक स्वास्थ्य जागरूकता बढ़ाने और एक देखभाल करने वाला, सहायक समुदाय बनाने के बारे में हैं।
+P: संपर्क
+P: हमारे न्यूज़लेटर के लिए साइन
+P: reachequilibria@gmail.com
+P: 214-606-5320
+BUTTON: साइन अप करें
+P: © 2024. सभी अधिकार रीचइक्विलिब्रिया के लिए सुरक्षित हैं।
+P: रीच इक्विलिब्रिया एक 501(सी)(3) गैर-लाभकारी संगठन है।EIN 99-3505959.
+
+## Links
+About (HI) -> /hi/our-story
+Resources (HI) -> /hi/resources
+Donate (HI) -> /hi/donate
+Contact Us (HI) -> /hi/contact-us
+Meet The Team (HI) -> /hi/satyam-sood
+Join (HI) -> /hi/volunteering-opportunities
+Events (HI) -> /hi/upcoming-events
+English (US) -> /
+Español (BO) -> /es
+हिन्दी -> /hi
+About (HI) -> /hi/our-story
+Resources (HI) -> /hi/resources
+Donate (HI) -> /hi/donate
+Contact Us (HI) -> /hi/contact-us
+Meet The Team (HI) -> /hi/satyam-sood
+Join (HI) -> /hi/volunteering-opportunities
+Events (HI) -> /hi/upcoming-events
+English (US) -> /
+Español (BO) -> /es
+हिन्दी -> /hi
+अन्वेषण करना -> /hi/volunteering-opportunities
+जोड़ना ReachEquilibria -> /hi/contact-us
+https://988lifeline.org -> https://988lifeline.org
+मदद लें -> /hi/resources
+(image/social) -> https://www.instagram.com/reachequilibria?igsh=MWlwcW53dDcxZjh5cA==&utm_source=qr
+(image/social) -> https://www.tiktok.com/@reachequilibria
+(image/social) -> https://www.linkedin.com/company/reachequilibria/?viewAsMember=true
+
+## Images
+ReachEquilibria logo -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop/A0xNan8Xlnh7vrgK/image-6-13-24-at-2.05a-pm-YBgpzEG1PRsZ4voz.jpeg
+hi flag -> https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/in.svg
+en flag -> https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/us.svg
+es flag -> https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/bo.svg
+hi flag -> https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/in.svg
+ReachEquilibria logo -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop/A0xNan8Xlnh7vrgK/image-6-13-24-at-2.05a-pm-YBgpzEG1PRsZ4voz.jpeg
+hi flag -> https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/in.svg
+en flag -> https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/us.svg
+es flag -> https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/bo.svg
+hi flag -> https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/in.svg
+beach seashore during sunset -> https://images.unsplash.com/photo-1559494007-9f5847c49d94?auto=format&fit=crop&w=1920
+a group of people holding hands on top of a tree -> https://images.unsplash.com/photo-1527525443983-6e60c75fff46?auto=format&fit=crop&w=612&h=464
+a group of people holding hands on top of a tree -> https://images.unsplash.com/photo-1527525443983-6e60c75fff46?auto=format&fit=crop&w=328&h=224
+black and white typewriter on green textile -> https://images.unsplash.com/photo-1585776245865-b92df54c6b25?auto=format&fit=crop&w=400&h=480
+black and white typewriter on green textile -> https://images.unsplash.com/photo-1585776245865-b92df54c6b25?auto=format&fit=crop&w=206&h=289
+brown wooden blocks on white surface -> https://images.unsplash.com/photo-1613391781181-2ff9a71e30a5?auto=format&fit=crop&w=359&h=344
+brown wooden blocks on white surface -> https://images.unsplash.com/photo-1613391781181-2ff9a71e30a5?auto=format&fit=crop&w=172&h=213
+(no alt) -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=2650,fit=crop/A0xNan8Xlnh7vrgK/shivam24-1-A1aKZxXOLKFLZ37P.jpg
+(no alt) -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=619,fit=crop/A0xNan8Xlnh7vrgK/shivam24-1-A1aKZxXOLKFLZ37P.jpg

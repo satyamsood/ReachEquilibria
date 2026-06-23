@@ -1,0 +1,82 @@
+# es.html
+
+## Text
+LABEL: About (ES)
+LABEL: Resources (ES)
+LABEL: Donate (ES)
+LABEL: Contact Us (ES)
+LABEL: Meet The Team (ES)
+LABEL: Take Action Join (ES)
+LABEL: Events (ES)
+P: English (US) Español (BO) हिन्दी About (ES) Resources (ES) Donate (ES) Contact Us (ES) Meet The Team (ES) Take Action Join (ES) Events (ES) English (US) Español (BO) हिन्दी Quiénes somos Explorar Reach Equilibria es una organización sin fines de lucro de reciente fundación centrada en generar conciencia sobre la salud mental. Nos esforzamos por apoyar a las clínicas locales de terapeutas y de salud mental, así como a organizaciones benéficas de salud mental más importantes.
+H3: Nuestra meta
+P: Reach Equilibria es una organización sin fines de lucro de salud mental creada por estudiantes y dirigida por jóvenes. Nuestro objetivo es difundir la conciencia de la salud mental y los servicios que ayudan a todos aquellos que los necesitan. Organizamos recaudaciones de fondos y servicios, y nuestro equipo dirigido por estudiantes (de varios miembros a partir de ahora) está en el centro de nuestra misión; tenemos la intención de alentar a los jóvenes a ayudar a otros de todas las edades y ser voluntarios para la comunidad.
+H3: Nuestro lema
+P: " Alcanzar juntos la estabilidad "
+P: Nadie está solo en esto; Estamos aquí para ayudar
+P: National Suicide Hotline: 988
+P: https://988lifeline.org
+H3: Empoderar las mentes a través de la compasión
+P: ReachEquilibria es un acogedor espacio en línea dedicado al apoyo y los recursos de salud mental. Estamos aquí para crear conciencia e impulsar un cambio significativo.
+H6: Aypoyar
+P: Únase a nosotros para brindar apoyo a la salud mental y presionar por un cambio real.
+H6: La solución
+P: Encuentre soluciones y recursos reales para respaldar su viaje de bienestar mental con nosotros.
+H6: La conciencia
+P: Nuestro objetivo es crear conciencia sobre la salud mental y crear una comunidad solidaria y solidaria.
+P: El contacto
+P: Suscríbete a nuestro newsletter
+P: reachequilibria@gmail.com
+P: 214-606-5320
+BUTTON: Inscribirse
+P: © 2024. Todos los derechos reservados a ReachEquilibria.
+P: Reach Equilibria es una organización sin fines de lucro 501(c)(3). EIN 99-3505959.
+
+## Links
+About (ES) -> /es/our-story
+Resources (ES) -> /es/resources
+Donate (ES) -> /es/donate
+Contact Us (ES) -> /es/contact-us
+Meet The Team (ES) -> /es/satyam-sood
+Join (ES) -> /es/volunteering-opportunities
+Events (ES) -> /es/upcoming-events
+English (US) -> /
+Español (BO) -> /es
+हिन्दी -> /hi
+About (ES) -> /es/our-story
+Resources (ES) -> /es/resources
+Donate (ES) -> /es/donate
+Contact Us (ES) -> /es/contact-us
+Meet The Team (ES) -> /es/satyam-sood
+Join (ES) -> /es/volunteering-opportunities
+Events (ES) -> /es/upcoming-events
+English (US) -> /
+Español (BO) -> /es
+हिन्दी -> /hi
+Explorar -> /es/volunteering-opportunities
+Unirse a ReachEquilibria -> /es/contact-us
+https://988lifeline.org -> https://988lifeline.org
+Obtener ayuda -> /es/resources
+(image/social) -> https://www.instagram.com/reachequilibria?igsh=MWlwcW53dDcxZjh5cA==&utm_source=qr
+(image/social) -> https://www.tiktok.com/@reachequilibria
+
+## Images
+ReachEquilibria logo -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop/A0xNan8Xlnh7vrgK/image-6-13-24-at-2.05a-pm-YBgpzEG1PRsZ4voz.jpeg
+es flag -> https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/bo.svg
+en flag -> https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/us.svg
+es flag -> https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/bo.svg
+hi flag -> https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/in.svg
+ReachEquilibria logo -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop/A0xNan8Xlnh7vrgK/image-6-13-24-at-2.05a-pm-YBgpzEG1PRsZ4voz.jpeg
+es flag -> https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/bo.svg
+en flag -> https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/us.svg
+es flag -> https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/bo.svg
+hi flag -> https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/in.svg
+beach seashore during sunset -> https://images.unsplash.com/photo-1559494007-9f5847c49d94?auto=format&fit=crop&w=1920
+a group of people holding hands on top of a tree -> https://images.unsplash.com/photo-1527525443983-6e60c75fff46?auto=format&fit=crop&w=612&h=464
+a group of people holding hands on top of a tree -> https://images.unsplash.com/photo-1527525443983-6e60c75fff46?auto=format&fit=crop&w=328&h=224
+black and white typewriter on green textile -> https://images.unsplash.com/photo-1585776245865-b92df54c6b25?auto=format&fit=crop&w=400&h=480
+black and white typewriter on green textile -> https://images.unsplash.com/photo-1585776245865-b92df54c6b25?auto=format&fit=crop&w=206&h=289
+brown wooden blocks on white surface -> https://images.unsplash.com/photo-1613391781181-2ff9a71e30a5?auto=format&fit=crop&w=359&h=344
+brown wooden blocks on white surface -> https://images.unsplash.com/photo-1613391781181-2ff9a71e30a5?auto=format&fit=crop&w=172&h=213
+(no alt) -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=2650,fit=crop/A0xNan8Xlnh7vrgK/shivam24-1-A1aKZxXOLKFLZ37P.jpg
+(no alt) -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=619,fit=crop/A0xNan8Xlnh7vrgK/shivam24-1-A1aKZxXOLKFLZ37P.jpg

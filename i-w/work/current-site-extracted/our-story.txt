@@ -1,0 +1,83 @@
+# our-story.html
+
+## Text
+LABEL: About Meet The Team
+LABEL: Past Events
+LABEL: Our Story
+LABEL: Resources Articles
+LABEL: Donate
+LABEL: Get Involved Join
+LABEL: Contact Us
+P: English (US) Español (BO) हिन्दी Donate Now Donate Now About Meet The Team Past Events Our Story Resources Articles Donate Get Involved Join Contact Us English (US) Español (BO) हिन्दी Our Story Satyam Sood founded ReachEquilibria near the end of his sophmore year In Memory and Dedication to Shivam Sood
+P: He is the youngest to ever found and own a nonprofit in Coppell history
+P: Loving Brother and Friend
+P: https://www.hughesftc.com/obituary/Shivam-Sood
+P: Reach Equilibria was founded after our CEO, Satyam Sood, experienced the devastating loss of his older brother – Shivam Sood,
+P: Shivam’s passing left a void that words can’t fill, but also lit a fire that inspired Satyam to take action.
+P: We're not experts in this field, just people with a shared experience that has shaped our lives. We wanted to do something meaningful, something that could offer hope and support to those who might be struggling in silence.
+P: Our organization was born out of deep personal pain and a burning desire to prevent others from experiencing similar losses. We believe that raising mental health awareness and providing support can create a ripple effect of compassion and resilience.
+P: ReachEquilibria isn’t just a nonprofit for us—it’s a salute. It's our way of honoring Shivam’s memory by striving to make the world kinder, more understanding, and more supportive.
+P: Through community outreach, education, and support programs, we're committed to making a difference, one step at a time. Join us on this hopeful journey. Together, we can turn pain into purpose and make a lasting impact.
+P: Satyam and Gabriel are the dynamic duo behind this amazing brand. Their story is inspiring and their passion shines through every product.
+P: Erin Crawford
+P: ★★★★★
+P: Contact
+P: Sign up for our Newsletter
+P: contact@reachequilibria.org
+P: 214-606-5320
+BUTTON: Sign Up
+P: © 2025. All rights reserved to ReachEquilibria.
+P: Reach Equilibria is a 501(c)(3) non-profit organization. EIN 99-3505959.
+
+## Links
+About -> /about
+Meet The Team -> /satyam-sood
+Past Events -> /past-events
+Our Story -> /our-story
+Resources -> /resources
+Articles -> /mental-wellness-articles
+Donate -> /donate
+Join -> /volunteering-opportunities
+Contact Us -> /contact-us
+English (US) -> /
+Español (BO) -> /es
+हिन्दी -> /hi
+About -> /about
+Meet The Team -> /satyam-sood
+Past Events -> /past-events
+Our Story -> /our-story
+Resources -> /resources
+Articles -> /mental-wellness-articles
+Donate -> /donate
+Join -> /volunteering-opportunities
+Contact Us -> /contact-us
+English (US) -> /
+Español (BO) -> /es
+हिन्दी -> /hi
+https://www.hughesftc.com/obituary/Shivam-Sood -> https://www.hughesftc.com/obituary/Shivam-Sood
+(image/social) -> https://www.instagram.com/reachequilibria?igsh=MWlwcW53dDcxZjh5cA==&utm_source=qr
+(image/social) -> https://www.linkedin.com/company/reachequilibria/?viewAsMember=true
+
+## Images
+ReachEquilibria logo -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop/A0xNan8Xlnh7vrgK/image-6-13-24-at-2.05a-pm-YBgpzEG1PRsZ4voz.jpeg
+en flag -> https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/us.svg
+en flag -> https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/us.svg
+es flag -> https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/bo.svg
+hi flag -> https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/in.svg
+ReachEquilibria logo -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop/A0xNan8Xlnh7vrgK/image-6-13-24-at-2.05a-pm-YBgpzEG1PRsZ4voz.jpeg
+en flag -> https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/us.svg
+en flag -> https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/us.svg
+es flag -> https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/bo.svg
+hi flag -> https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/in.svg
+a close up of a white marble surface -> https://images.unsplash.com/photo-1566041510394-cf7c8fe21800?auto=format&fit=crop&w=1920
+a close up of a white marble surface -> https://images.unsplash.com/photo-1566041510394-cf7c8fe21800?auto=format&fit=crop&w=1920
+The CEO and Founder of ReachEquilibria, Satyam Sood, and his brother, Shivam Sood -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=629,fit=crop/A0xNan8Xlnh7vrgK/20230722_125049-mP4pknZOxgIGO2Ox.jpg
+The CEO and Founder of ReachEquilibria, Satyam Sood, and his brother, Shivam Sood -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=302,fit=crop/A0xNan8Xlnh7vrgK/20230722_125049-mP4pknZOxgIGO2Ox.jpg
+The CEO and Founder of ReachEquilibria, Satyam Sood, and his brother, Shivam Sood -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=467,fit=crop/A0xNan8Xlnh7vrgK/alaska-trip-aug2013-10-m7Vp4wE08ehqJZ9n.jpg
+The CEO and Founder of ReachEquilibria, Satyam Sood, and his brother, Shivam Sood -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=302,fit=crop/A0xNan8Xlnh7vrgK/alaska-trip-aug2013-10-m7Vp4wE08ehqJZ9n.jpg
+The CEO and Founder of ReachEquilibria, Satyam Sood, and his brother, Shivam Sood -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=710,fit=crop/A0xNan8Xlnh7vrgK/img_2633-Yyvob3XXEXhz4BDp.JPG
+The CEO and Founder of ReachEquilibria, Satyam Sood, and his brother, Shivam Sood -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=302,fit=crop/A0xNan8Xlnh7vrgK/img_2633-Yyvob3XXEXhz4BDp.JPG
+The CEO and Founder of ReachEquilibria, Satyam Sood, and his brother, Shivam Sood -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1920,fit=crop/A0xNan8Xlnh7vrgK/cimg2107-mp8nEv3ORxfW79Qj.JPG
+The CEO and Founder of ReachEquilibria, Satyam Sood, and his brother, Shivam Sood -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=619,fit=crop/A0xNan8Xlnh7vrgK/cimg2107-mp8nEv3ORxfW79Qj.JPG
+man sitting on sofa while using laptop -> https://images.unsplash.com/photo-1526948128573-703ee1aeb6fa?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHw4fHxmb3VuZGVyJTIwYmlvc3xlbnwwfHx8fDE3MTc2MTI2ODh8MA&ixlib=rb-4.0.3&auto=format&fit=crop&w=48&h=48
+man sitting on sofa while using laptop -> https://images.unsplash.com/photo-1526948128573-703ee1aeb6fa?ixid=M3wzOTE5Mjl8MHwxfHNlYXJjaHw4fHxmb3VuZGVyJTIwYmlvc3xlbnwwfHx8fDE3MTc2MTI2ODh8MA&ixlib=rb-4.0.3&auto=format&fit=crop&w=54&h=53

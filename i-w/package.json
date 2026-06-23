@@ -1,0 +1,10 @@
+{
+  "name": "reachequilibria-site",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node work/build-reachequilibria-v2.js",
+    "package": "npm run build && cd outputs/reachequilibria-site && zip -qr ../reachequilibria-site-latest.zip .",
+    "deploy:workers": "npm run build && npx wrangler@latest deploy"
+  }
+}

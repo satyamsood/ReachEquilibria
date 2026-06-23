@@ -1,0 +1,92 @@
+# home.html
+
+## Text
+LABEL: About Meet The Team
+LABEL: Past Events
+LABEL: Our Story
+LABEL: Resources Articles
+LABEL: Donate
+LABEL: Get Involved Join
+LABEL: Contact Us
+P: English (US) Español (BO) हिन्दी Donate Now Donate Now About Meet The Team Past Events Our Story Resources Articles Donate Get Involved Join Contact Us English (US) Español (BO) हिन्दी Who We Are Learn More ReachEquilibria is a student-led Non-Profit organization that focuses on spreading mental health awareness and suicide awareness, with our primary target being teens and young adults. We host community events focused on mental health and connect organizations with larger non-profits that offer professional public speaking services. In the upcoming year, we are planning to host school speaking events featuring professional speakers, as well as other types of events.
+H3: Our Mission
+P: Reach Equilibria is a student-created and youth-led mental health non-profit. Our mission is to spread resources that help all those who need them, increase inclusivity in our community, and advocate for mental health and suicide awareness. We host fundraisers and services, and our student-led team(of several members as of now) is at the center of our mission; we intend to encourage young people to help others of all ages and volunteer for the community.
+H3: Our Motto
+P: "Reaching Stability Together"
+P: Nobody is in this alone; We are here to help
+P: National Suicide Hotline: 988
+P: https://988lifeline.org
+H3: Empowering Minds Through Compassion
+P: ReachEquilibria is a welcoming online space dedicated to mental health support and resources. We're here to raise awareness and push for meaningful change.
+H6: Support
+P: Join us for mental health support and a push for real change.
+H6: Solutions
+P: Find real solutions and resources to support your mental wellness journey with us.
+H6: Awareness
+P: We're all about raising mental health awareness and creating a caring, supportive community.
+P: Contact
+P: Sign up for our Newsletter
+P: contact@reachequilibria.org
+P: 214-606-5320
+BUTTON: Sign Up
+P: © 2025. All rights reserved to ReachEquilibria.
+P: Reach Equilibria is a 501(c)(3) non-profit organization. EIN 99-3505959.
+
+## Links
+About -> /about
+Meet The Team -> /satyam-sood
+Past Events -> /past-events
+Our Story -> /our-story
+Resources -> /resources
+Articles -> /mental-wellness-articles
+Donate -> /donate
+Join -> /volunteering-opportunities
+Contact Us -> /contact-us
+English (US) -> /
+Español (BO) -> /es
+हिन्दी -> /hi
+About -> /about
+Meet The Team -> /satyam-sood
+Past Events -> /past-events
+Our Story -> /our-story
+Resources -> /resources
+Articles -> /mental-wellness-articles
+Donate -> /donate
+Join -> /volunteering-opportunities
+Contact Us -> /contact-us
+English (US) -> /
+Español (BO) -> /es
+हिन्दी -> /hi
+Learn More -> /our-story
+Join ReachEquilibria -> /volunteering-opportunities
+https://988lifeline.org -> https://988lifeline.org
+Get Help -> /resources
+(image/social) -> https://www.instagram.com/reachequilibria?igsh=MWlwcW53dDcxZjh5cA==&utm_source=qr
+(image/social) -> https://www.linkedin.com/company/reachequilibria/?viewAsMember=true
+
+## Images
+ReachEquilibria logo -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop/A0xNan8Xlnh7vrgK/image-6-13-24-at-2.05a-pm-YBgpzEG1PRsZ4voz.jpeg
+en flag -> https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/us.svg
+en flag -> https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/us.svg
+es flag -> https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/bo.svg
+hi flag -> https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/in.svg
+ReachEquilibria logo -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop/A0xNan8Xlnh7vrgK/image-6-13-24-at-2.05a-pm-YBgpzEG1PRsZ4voz.jpeg
+en flag -> https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/us.svg
+en flag -> https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/us.svg
+es flag -> https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/bo.svg
+hi flag -> https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/in.svg
+colored pencil lined up on top of white surface -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/A0xNan8Xlnh7vrgK/2-img_3963-YNqMz4GOgzhLVQnG.jpg
+(no alt) -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=583,fit=crop/A0xNan8Xlnh7vrgK/ourcalling-group-photo-A85ELNa8gxcRBDQz.jpeg
+(no alt) -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=257,fit=crop/A0xNan8Xlnh7vrgK/ourcalling-group-photo-A85ELNa8gxcRBDQz.jpeg
+Goals of ReachEquilibria -> https://images.unsplash.com/photo-1585776245865-b92df54c6b25?auto=format&fit=crop&w=400&h=480
+Goals of ReachEquilibria -> https://images.unsplash.com/photo-1585776245865-b92df54c6b25?auto=format&fit=crop&w=206&h=289
+(no alt) -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=360,fit=crop/A0xNan8Xlnh7vrgK/reachequilibria-dental-kit-group-photo-AR0MO9ZZWXc5qevM.jpg
+(no alt) -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=465,fit=crop/A0xNan8Xlnh7vrgK/reachequilibria-dental-kit-group-photo-AR0MO9ZZWXc5qevM.jpg
+(no alt) -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=999,fit=crop/A0xNan8Xlnh7vrgK/reachequilbria-dentalkit-volunteering-example-AQEDa1GGOWSMqNBZ.jpg
+(no alt) -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=302,fit=crop/A0xNan8Xlnh7vrgK/reachequilbria-dentalkit-volunteering-example-AQEDa1GGOWSMqNBZ.jpg
+(no alt) -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=999,fit=crop/A0xNan8Xlnh7vrgK/reach-equilibria-ourcalling-volunteering-m7V5xLqZZVCxjj8e.jpg
+(no alt) -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=302,fit=crop/A0xNan8Xlnh7vrgK/reach-equilibria-ourcalling-volunteering-m7V5xLqZZVCxjj8e.jpg
+(no alt) -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=999,fit=crop/A0xNan8Xlnh7vrgK/req-chess-event-AVL1593a0nCp8EkY.jpg
+(no alt) -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=302,fit=crop/A0xNan8Xlnh7vrgK/req-chess-event-AVL1593a0nCp8EkY.jpg
+(no alt) -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1082,fit=crop/A0xNan8Xlnh7vrgK/req-bake-sale-example-mxBMNQxwOqHel895.jpg
+(no alt) -> https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=619,fit=crop/A0xNan8Xlnh7vrgK/req-bake-sale-example-mxBMNQxwOqHel895.jpg
